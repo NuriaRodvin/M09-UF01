@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "F8p/nrA7ECI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nuria\\Desktop\\FP DAM\\PRACTICAS 2024-2025\\2º SEMESTRE\\M09-UF01\\ICB0009-UF1-Pr01 Enunciado\\ICB0009-UF1-Pr01 Enunciado\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nuria\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\nuria\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\nuria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\nuria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\nuria\Desktop\FP DAM\PRACTICAS 2024-2025\2º SEMESTRE\M09-UF01\ICB0009-UF1-Pr01 Enunciado\ICB0009-UF1-Pr01 Enunciado\ClaveAsimetricaClass\bin\Debug\net8.0\ClaveAsimetricaClass.deps.json
+C:\Users\nuria\Desktop\FP DAM\PRACTICAS 2024-2025\2º SEMESTRE\M09-UF01\ICB0009-UF1-Pr01 Enunciado\ICB0009-UF1-Pr01 Enunciado\ClaveAsimetricaClass\bin\Debug\net8.0\ClaveAsimetricaClass.dll
+C:\Users\nuria\Desktop\FP DAM\PRACTICAS 2024-2025\2º SEMESTRE\M09-UF01\ICB0009-UF1-Pr01 Enunciado\ICB0009-UF1-Pr01 Enunciado\ClaveAsimetricaClass\bin\Debug\net8.0\ClaveAsimetricaClass.pdb
+C:\Users\nuria\Desktop\FP DAM\PRACTICAS 2024-2025\2º SEMESTRE\M09-UF01\ICB0009-UF1-Pr01 Enunciado\ICB0009-UF1-Pr01 Enunciado\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuria\Desktop\FP DAM\PRACTICAS 2024-2025\2º SEMESTRE\M09-UF01\ICB0009-UF1-Pr01 Enunciado\ICB0009-UF1-Pr01 Enunciado\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.AssemblyInfoInputs.cache
+C:\Users\nuria\Desktop\FP DAM\PRACTICAS 2024-2025\2º SEMESTRE\M09-UF01\ICB0009-UF1-Pr01 Enunciado\ICB0009-UF1-Pr01 Enunciado\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.AssemblyInfo.cs
+C:\Users\nuria\Desktop\FP DAM\PRACTICAS 2024-2025\2º SEMESTRE\M09-UF01\ICB0009-UF1-Pr01 Enunciado\ICB0009-UF1-Pr01 Enunciado\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.csproj.CoreCompileInputs.cache
+C:\Users\nuria\Desktop\FP DAM\PRACTICAS 2024-2025\2º SEMESTRE\M09-UF01\ICB0009-UF1-Pr01 Enunciado\ICB0009-UF1-Pr01 Enunciado\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.sourcelink.json
+C:\Users\nuria\Desktop\FP DAM\PRACTICAS 2024-2025\2º SEMESTRE\M09-UF01\ICB0009-UF1-Pr01 Enunciado\ICB0009-UF1-Pr01 Enunciado\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.dll
+C:\Users\nuria\Desktop\FP DAM\PRACTICAS 2024-2025\2º SEMESTRE\M09-UF01\ICB0009-UF1-Pr01 Enunciado\ICB0009-UF1-Pr01 Enunciado\ClaveAsimetricaClass\obj\Debug\net8.0\refint\ClaveAsimetricaClass.dll
+C:\Users\nuria\Desktop\FP DAM\PRACTICAS 2024-2025\2º SEMESTRE\M09-UF01\ICB0009-UF1-Pr01 Enunciado\ICB0009-UF1-Pr01 Enunciado\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.pdb
+C:\Users\nuria\Desktop\FP DAM\PRACTICAS 2024-2025\2º SEMESTRE\M09-UF01\ICB0009-UF1-Pr01 Enunciado\ICB0009-UF1-Pr01 Enunciado\ClaveAsimetricaClass\obj\Debug\net8.0\ref\ClaveAsimetricaClass.dll
